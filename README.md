@@ -2,9 +2,9 @@
 
 ## Hi!
 
-I am a graduate student at the University of Pennsylvania, where I am building upon a strong foundation in quantitative analysis and machine learning. With over four years of industry experience, my passion for leveraging technology to tackle complex challenges and drive innovation has only grown. My work is where my dedication meets creativity, solving real-world problems with data-driven solutions.
+I am a graduate student at the University of Pennsylvania, where I am building upon a strong foundation in quantitative analysis and machine learning. With over four years of industry experience, my passion for leveraging technology to tackle complex challenges and drive innovation has only grown.
 
-At present, I'm diving into an exciting project that involves an extensive Exploratory Data Analysis (EDA) on breweries. Yes, Breweries!!! I'm super excited to sift through data, spot trends, and get to the bottom of what makes the craft beer scene tick. This project is a perfect blend of my love for data and a good pint, showcasing how I can turn numbers into stories. Can't wait to see what secrets the data holds and share those findings!
+At present, I'm diving into an exciting project that involves an extensive Exploratory Data Analysis (EDA) on breweries. Yes, Breweries!!! This project is a perfect blend of my love for data and a good pint, showcasing how I can turn numbers into stories. Can't wait to see what secrets the data holds and share those findings!
 
 Have a look at my professional journey so far!
 
