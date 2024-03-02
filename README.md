@@ -1,5 +1,8 @@
 ## </saaranshpandey> 
-<p align="right">[Resume](https://drive.google.com/file/d/1Ib1v2n-JW8n6_GM-7FmQFwnzJcfYdxlm/view?usp=sharing) [LinkedIn](https://www.linkedin.com/in/saaransh-pandey)</p>
+<p align="right">
+  <a href="https://drive.google.com/file/d/1Ib1v2n-JW8n6_GM-7FmQFwnzJcfYdxlm/view?usp=sharing">Resume</a> |
+  <a href="https://www.linkedin.com/in/saaransh-pandey">LinkedIn</a>
+</p>
 
 ## Hi!
 
