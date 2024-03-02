@@ -14,11 +14,6 @@ Have a look at my professional journey so far!
 
 ### Professional Experience
 
-- **Teaching Assistant @ The Wharton School** (Oct 2023 - Present)
-  - Course: STAT 4770/7770: Introduction to Python for Data Science
-    - Facilitating weekly office hours, along with providing comprehensive academic support to over 100+ undergraduate and MBA students enrolled in the course.
-    - Conducting in-depth grading for all the assignments, quizzes, and exams, focusing on data science applications and Python programming.
-
 - **Software Engineer @ UnitedHealth Group** (Jul 2020 - Jul 2023)
   - Lead Data Scientist (Oct 2022 - Jul 2023)   
     - Led a data science project to detect early stages of opioid addiction in patients. Developed and implemented a machine learning classification model, achieving significant recall (~0.63) and specificity (~0.75) metrics.
