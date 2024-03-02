@@ -1,6 +1,4 @@
-# Saaransh Pandey's Portfolio
-
-![Saaransh Pandey](./pics/IMG-20240301-WA0013.jpg){: .rounded}
+## Saaransh Pandey's Portfolio
 
 ## Hi!
 
