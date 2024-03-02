@@ -34,28 +34,33 @@ facility and physician databases, significantly reducing process turnaround time
 
 ### Projects
 
-- **Brewery Data Analysis (EDA)** | Python, Spark SQL (Mar 2024 - Present)
-  - Conduct an in-depth exploratory data analysis (EDA) on a brewery dataset.
-  - Key objectives include identifying trends in alcohol content over time, calculating the mean alcohol percentage of the top 10 highest-earning beer batches, examining the SKU distribution across various beer styles, among other objectives.
-  - This initiative aims to leverage advanced data processing and analytical techniques to derive actionable insights from complex datasets.   
+- **Brewery Data Analysis (EDA)**  (Mar 2024 - Present)
+  - Utilizing Python, Spark SQL for this project.
+    - Conduct an in-depth exploratory data analysis (EDA) on a brewery dataset.
+    - Key objectives include identifying trends in alcohol content over time, calculating the mean alcohol percentage of the top 10 highest-earning beer batches, examining the SKU distribution across various beer styles, among other objectives.
+    - This initiative aims to leverage advanced data processing and analytical techniques to derive actionable insights from complex datasets.   
 
-- **Image and Text Classification with Deep Learning Models** | Python, TensorFlow, PyTorch (Aug 2023 – Dec 2023)
+- **Image and Text Classification with Deep Learning Models** (Aug 2023 – Dec 2023)
   - Utilized Python, TensorFlow, and PyTorch to elevate machine learning benchmarks through deep learning models.
     - Developed and fine-tuned CNN models on the CIFAR-10 dataset, achieving a notable accuracy improvement and demonstrating resilience against dataset shifts.
     - Implemented RNN and LSTM networks for sentiment analysis on the IMDB reviews dataset, incorporating GloVe embeddings to enhance model performance and precision, showcasing effectiveness in sequential data processing.
 
-- **Numerical modeling & analysis of chalcogenide based step-index optical fiber** | Published in Elsevier, 2020 (Oct 2019 – Jan 2020)
+- **Numerical modeling & analysis of chalcogenide based step-index optical fiber**(Oct 2019 – Jan 2020)
   - Contributed to the research work published in Elsevier in 2020, showcasing the engineering and simulation of AsSe2/As2S5 chalcogenide step-index optical fibers using MATLAB and COMSOL Multiphysics®.
     - The work analyzed the impact of core radius on performance, achieving a broad supercontinuum spectrum from 1–10 μm, optimized for 50 fs pulse input at 5 kW. This research highlighted the fiber's potential in enhancing optical imaging and sensing technologies.
  
-- **VLC Modulation Toolkit using Reconfigurable GNU Radio Framework** Published in IEEE, 2019 (May 2019 – Jul 2019)
+- **VLC Modulation Toolkit using Reconfigurable GNU Radio Framework** (May 2019 – Jul 2019)
   - The development of a modulation toolkit for Visible Light Communication (VLC) systems using Python and the GNU Radio framework was published in IEEE in 2019.
     - This project enhanced simulation capabilities for VLC systems by incorporating multiple modulation schemes, enabling the analysis of performance in terms of Bit Error Rate, marking a significant advancement in optical communications.
 
 ### Skills
-
-- Programming Languages: Python, Java, C++, SQL
-- Other Tools: TensorFlow, PyTorch, MS SQL, DBVisualizer, PandasSQL, JMP, Microsoft Power BI, OpenCV, Object Oriented Programming, Data Analysis and Visualization, Machine Learning algorithms, Computer Vision,Kaggle, Google Cloud Platform – BigQuery, Google Cloud Platform - Cloud Dataflow, Heroku, Postman, Jupyter Notebook, MATLAB, GNU Radio framework
+- Programming Language: Python, SQL, Java, C++
+- Machine Learning & Data Analysis: TensorFlow, PyTorch, Spark SQL, PandasSQL, Jupyter Notebook, Kaggle
+- Data Visualization & BI Tools: Microsoft Power BI, JMP
+- Database Management: MS SQL, DBVisualizer, Google Cloud Platform – BigQuery
+- Cloud & Big Data Technologies: AWS, Google Cloud Platform - Cloud Dataflow, Heroku
+- Software Development: NativeScript, Angular, Android Studio
+- Other Tools: MATLAB, GNU Radio framework, LabVIEW, Opencv, Postman
 
 ### Contact
 
