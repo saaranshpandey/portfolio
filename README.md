@@ -2,27 +2,18 @@
 
 ## Hi!
 
-I'm a dedicated Data Science enthusiast and an aspiring software engineer. With a strong foundation in quantitative analysis and machine learning, coupled with over four years of industry experience and my ongoing academic pursuits as a graduate student at University of Pennsylvania, I'm passionate about using technology to solve complex challenges and inspire innovation.
+I am a graduate student at the University of Pennsylvania, where I am building upon a strong foundation in quantitative analysis and machine learning. With over four years of industry experience, my passion for leveraging technology to tackle complex challenges and drive innovation has only grown. My work is where my dedication meets creativity, solving real-world problems with data-driven solutions.
 
-### Education
+At present, I'm diving into an exciting project that involves an extensive Exploratory Data Analysis (EDA) on breweries. Yes, Breweries!!! I'm super excited to sift through data, spot trends, and get to the bottom of what makes the craft beer scene tick. This project is a perfect blend of my love for data and a good pint, showcasing how I can turn numbers into stories. Can't wait to see what secrets the data holds and share those findings!
 
-- **University of Pennsylvania**
-  - M.S., Electrical Engineering with Minors in Data Science (2023-2025)
-  - GPA: 4.0
-  - Relevant Coursework: Applied ML, Statistics for Data Science, Big Data Analytics, Simulation Modeling and Analysis, Data and Analysis for Marketing Decisions.
-
-- **Delhi Technological University**
-  - B.S., Engineering Physics with Majors in Electronics and Minors in Robotics & Intelligent Systems (2016-2020)
-  - GPA: 8.36
-  - Activities and Societies: Computer Society of India (CSI-DTU), Leaders for Tomorrow (LFT-DTU).
+Have a look at my professional journey so far!
 
 ### Professional Experience
 
 - **Teaching Assistant @ The Wharton School** (Oct 2023 - Present)
   - Course: STAT 4770/7770: Introduction to Python for Data Science
-    - Facilitating weekly office hours
-    - providing comprehensive academic support to over 120 undergraduate and MBA students in thecourse
-    - Conducting in-depth grading for multiple assignments, quizzes, and exams
+    - Facilitating weekly office hours, along with providing comprehensive academic support to over 100+ undergraduate and MBA students enrolled in the course.
+    - Conducting in-depth grading for all the assignments, quizzes, and exams, focusing on data science applications and Python programming.
 
 - **Software Engineer @ UnitedHealth Group** (Jul 2020 - Jul 2023)
   - Lead Data Scientist (Oct 2022 - Jul 2023)   
@@ -43,23 +34,23 @@ facility and physician databases, significantly reducing process turnaround time
 
 ### Projects
 
+- **Brewery Data Analysis (EDA)** | Python, Spark SQL (Mar 2024 - Present)
+  - Conduct an in-depth exploratory data analysis (EDA) on a brewery dataset.
+  - Key objectives include identifying trends in alcohol content over time, calculating the mean alcohol percentage of the top 10 highest-earning beer batches, examining the SKU distribution across various beer styles, among other objectives.
+  - This initiative aims to leverage advanced data processing and analytical techniques to derive actionable insights from complex datasets.   
+
 - **Image and Text Classification with Deep Learning Models** | Python, TensorFlow, PyTorch (Aug 2023 – Dec 2023)
-  - Computer Vision (CV) Pipeline
-    - Implemented CNN models using TensorFlow on the CIFAR-10 dataset, elevating baseline accuracy from 70.99% to 80.13% by iterative hyperparameter tuning, dropout layers, and L2 regularization, showcasing advanced feature abstraction capabilities.
-    - Assessed model resilience through dataset shift experiments, (flips, shifts, zoom, rotation, brightness adjustments), where CNNs demonstrated robust performance against traditional ML models' significant performance drops.
-      
-  - Natural Language Processing (NLP) Pipeline
-    - Developed RNN and LSTM networks using PyTorch, NLTK, Pandas, and NumPy on the IMDB reviews dataset for sentiment analysis, integrating GloVe embeddings to reach an optimal test accuracy of 88.67%.
-    - The leading RNN model, refined via hyperparameter optimization for learning rates and hidden layer sizes, exceeded traditional ML benchmarks with a precision of 0.917, highlighting its efficiency in handling sequential data.
-    - Conducted experiments on dataset shifts by varying review lengths, showcasing LSTM's adeptness at processing longer sequences with maintained high performance metrics (84.5% accuracy, 95.2% precision on shifted datasets).
+  - Utilized Python, TensorFlow, and PyTorch to elevate machine learning benchmarks through deep learning models.
+    - Developed and fine-tuned CNN models on the CIFAR-10 dataset, achieving a notable accuracy improvement and demonstrating resilience against dataset shifts.
+    - Implemented RNN and LSTM networks for sentiment analysis on the IMDB reviews dataset, incorporating GloVe embeddings to enhance model performance and precision, showcasing effectiveness in sequential data processing.
 
 - **Numerical modeling & analysis of chalcogenide based step-index optical fiber** | Published in Elsevier, 2020 (Oct 2019 – Jan 2020)
-  - Engineered and simulated AsSe2/As2S5 chalcogenide step-index optical fiber for mid-IR supercontinuum generation, analyzing core radius impact using MATLAB and COMSOL Multiphysics®.
-  - Achieved broad supercontinuum spectrum spanning 1–10 μm for mid-IR applications, optimizing for 50 fs pulse input at 5 kW, highlighting potential in optical imaging and sensing.
+  - Contributed to the research work published in Elsevier in 2020, showcasing the engineering and simulation of AsSe2/As2S5 chalcogenide step-index optical fibers using MATLAB and COMSOL Multiphysics®.
+    - The work analyzed the impact of core radius on performance, achieving a broad supercontinuum spectrum from 1–10 μm, optimized for 50 fs pulse input at 5 kW. This research highlighted the fiber's potential in enhancing optical imaging and sensing technologies.
  
 - **VLC Modulation Toolkit using Reconfigurable GNU Radio Framework** Published in IEEE, 2019 (May 2019 – Jul 2019)
-  - Developed an innovative modulation toolkit for Visible Light Communication (VLC) systems using Python and the GNU Radio framework, enhancing user-centric simulation capabilities.
-  - Incorporated multiple modulation schemes for the user to analyze its realistic performance in terms of Bit Error Rate. 
+  - The development of a modulation toolkit for Visible Light Communication (VLC) systems using Python and the GNU Radio framework was published in IEEE in 2019.
+    - This project enhanced simulation capabilities for VLC systems by incorporating multiple modulation schemes, enabling the analysis of performance in terms of Bit Error Rate, marking a significant advancement in optical communications.
 
 ### Skills
 
