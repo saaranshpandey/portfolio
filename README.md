@@ -4,7 +4,7 @@
 
 I am a graduate student at the University of Pennsylvania, where I am building upon a strong foundation in quantitative analysis and machine learning. With over four years of industry experience, my passion for leveraging technology to tackle complex challenges and drive innovation has only grown.
 
-At present, I'm diving into an exciting project that involves an extensive Exploratory Data Analysis (EDA) on breweries. Yes, Breweries!!! This project is a perfect blend of my love for data and a good pint, showcasing how I can turn numbers into stories. Can't wait to see what secrets the data holds and share those findings!
+At present, I'm diving into an exciting project that involves an extensive Exploratory Data Analysis (EDA) on breweries. Yes, Breweries!!! This project is a perfect blend of my love for data and a good pint, showcasing how I can turn numbers into stories. Can't wait to see what secrets the data holds and share those findings <insert-link-here>!
 
 Have a look at my professional journey so far!
 
@@ -52,6 +52,12 @@ facility and physician databases, significantly reducing process turnaround time
 - **VLC Modulation Toolkit using Reconfigurable GNU Radio Framework** (May 2019 – Jul 2019)
   - The development of a modulation toolkit for Visible Light Communication (VLC) systems using Python and the GNU Radio framework was published in IEEE in 2019.
     - This project enhanced simulation capabilities for VLC systems by incorporating multiple modulation schemes, enabling the analysis of performance in terms of Bit Error Rate, marking a significant advancement in optical communications.
+
+## Publications
+
+1. **Pandey, Saaransh**, Raghav Bansal, Pooja Chauhan, and Ajeet Kumar. "Numerical modeling & analysis of AsSe2-As2S5 chalcogenide based step-index optical fiber for nonlinear applications." Materials Today: Proceedings 28 (2020): 45-48. [Link](https://www.sciencedirect.com/science/article/abs/pii/S2214785320302108)
+2. Bansal, Raghav, **Saaransh Pandey**, Pooja Chauhan, and Ajeet Kumar, “Numerical analysis of linear and nonlinear aspects of chalcogenide based step-index fiber”, p. 36, International OSA Network of Students (IONS), Indian Institute of Technology Delhi, New Delhi, India, 2020. [Link](https://drive.google.com/file/u/2/d/17-xicYm-UshztN4iVgexdE9sOz1GEUU0/view?usp=drive_link)
+3. **Pandey, Saaransh**, Anand Singh, Vivek Ashok Bohara, and Anand Srivastava. "Visible Light Communication Modulation Toolkit using Reconfigurable GNU Radio Framework." In 2019 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), pp. 1-4. IEEE, 2019. [Link](https://ieeexplore.ieee.org/abstract/document/9118103)
 
 ### Skills
 - Programming Language: Python, SQL, Java, C++
