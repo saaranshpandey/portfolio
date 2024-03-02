@@ -57,7 +57,7 @@ facility and physician databases, significantly reducing process turnaround time
   - The development of a modulation toolkit for Visible Light Communication (VLC) systems using Python and the GNU Radio framework was published in IEEE in 2019.
     - This project enhanced simulation capabilities for VLC systems by incorporating multiple modulation schemes, enabling the analysis of performance in terms of Bit Error Rate, marking a significant advancement in optical communications.
 
-## Publications
+### Publications
 
 1. **Pandey, Saaransh**, Raghav Bansal, Pooja Chauhan, and Ajeet Kumar. "Numerical modeling & analysis of AsSe2-As2S5 chalcogenide based step-index optical fiber for nonlinear applications." Materials Today: Proceedings 28 (2020): 45-48. [Link](https://www.sciencedirect.com/science/article/abs/pii/S2214785320302108)
 2. Bansal, Raghav, **Saaransh Pandey**, Pooja Chauhan, and Ajeet Kumar, “Numerical analysis of linear and nonlinear aspects of chalcogenide based step-index fiber”, p. 36, International OSA Network of Students (IONS), Indian Institute of Technology Delhi, New Delhi, India, 2020. [Link](https://drive.google.com/file/u/2/d/17-xicYm-UshztN4iVgexdE9sOz1GEUU0/view?usp=drive_link)
@@ -71,7 +71,3 @@ facility and physician databases, significantly reducing process turnaround time
 - Cloud & Big Data Technologies: AWS, Google Cloud Platform - Cloud Dataflow, Heroku
 - Software Development: NativeScript, Angular, Android Studio
 - Other Tools: MATLAB, GNU Radio framework, LabVIEW, Opencv, Postman
-
-### Contact
-
-For further discussion or inquiries about potential opportunities, please reach out via email or connect with me through LinkedIn.
