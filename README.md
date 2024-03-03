@@ -8,8 +8,6 @@
 
 I am a graduate student at the University of Pennsylvania, where I am building upon a strong foundation in quantitative analysis and machine learning. With over four years of industry experience, my passion for leveraging technology to tackle complex challenges and drive innovation has only grown.
 
-At present, I'm diving into an exciting project that involves an extensive Exploratory Data Analysis (EDA) on breweries. Yes, Breweries!!! This project is a perfect blend of my love for data and a good pint, showcasing how I can turn numbers into stories. Can't wait to see what secrets the data holds and share those findings *insert-link-here*!
-
 Have a look at my professional journey so far!
 
 ### Professional Experience
@@ -35,7 +33,7 @@ facility and physician databases, significantly reducing process turnaround time
 
 - **Brewery Data Analysis (EDA)**  (Mar 2024 - Present)
   - Utilizing Python, Spark SQL for this project.
-    - Conduct an in-depth exploratory data analysis (EDA) on a brewery dataset.
+    - Conducting an in-depth exploratory data analysis (EDA) on a brewery dataset.
     - Key objectives include identifying trends in alcohol content over time, calculating the mean alcohol percentage of the top 10 highest-earning beer batches, examining the SKU distribution across various beer styles, among other objectives.
     - This initiative aims to leverage advanced data processing and analytical techniques to derive actionable insights from complex datasets.   
 
