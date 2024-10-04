@@ -1,6 +1,6 @@
 ## </saaranshpandey> 
 <p align="right">
-  <a href="https://drive.google.com/file/d/1Ib1v2n-JW8n6_GM-7FmQFwnzJcfYdxlm/view?usp=sharing">Resume</a> |
+  <a href="https://drive.google.com/file/d/1ySuNVXxmSRPV_f1RLnU9v9ifHYwQU1IX/view?usp=drive_link">Resume</a> |
   <a href="https://www.linkedin.com/in/saaransh-pandey">LinkedIn</a>
 </p>
 
@@ -62,6 +62,6 @@ I’ve also had the opportunity to work on some exciting research:
 
 ### Let’s Connect!
 
-I’m always happy to connect with fellow data enthusiasts or discuss exciting opportunities! You can find my resume [here](https://drive.google.com/file/d/1Ib1v2n-JW8n6_GM-7FmQFwnzJcfYdxlm/view?usp=sharing) or reach out to me via [LinkedIn](https://www.linkedin.com/in/saaransh-pandey).
+I’m always happy to connect with fellow data enthusiasts or discuss exciting opportunities! You can find my resume [here](https://drive.google.com/file/d/1ySuNVXxmSRPV_f1RLnU9v9ifHYwQU1IX/view?usp=drive_link) or reach out to me via [LinkedIn](https://www.linkedin.com/in/saaransh-pandey).
 
 ---
